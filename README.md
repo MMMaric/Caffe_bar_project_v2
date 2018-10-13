@@ -2,7 +2,7 @@
 
 --> About : Caffe bar project - new and better version of caffe bar project website.
 
---> Language used : 
+--> Technologies used : 
 
     1. HTML
     2. CSS
