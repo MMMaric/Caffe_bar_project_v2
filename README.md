@@ -8,3 +8,5 @@
     2. CSS
     3. Bootstrap
     4. Javascript
+
+<b>--> How to use:</b> 
