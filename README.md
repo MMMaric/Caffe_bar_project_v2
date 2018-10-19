@@ -1,8 +1,8 @@
 # Caffe Bar Project_v2
 
----> About : Caffe bar project - new and better version of caffe bar project website.
+<b>---> About : </b>Caffe bar project - new and better version of caffe bar project website.
 
----> Technologies used : 
+<b>---> Technologies used : </b> 
 
     1. HTML
     2. CSS
