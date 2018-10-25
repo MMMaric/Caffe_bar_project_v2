@@ -6,6 +6,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 <b>---> About : </b>Caffe bar project - new and better version of caffe bar project website.
 
+### Prerequisites
+
 <b>---> Technologies used : </b> 
 
     1. HTML
